@@ -1,0 +1,9 @@
+{
+    "machine_type": "e2-standard-8",
+    "num_threads": 8,
+    "data_rows": 284807,
+    "training_time_seconds": 1.09,
+    "auc_roc": 0.8813,
+    "accuracy": 0.9993,
+    "inference_latency_ms": 0.05
+}
